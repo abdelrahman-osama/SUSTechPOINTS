@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'bst-labeling'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_5080b744ba3a487593992ee357a02060 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_b2e1be03d4934f01bcf4181f256e051b }}
